@@ -1,0 +1,121 @@
+{
+  "app": {
+    "title": "Herramienta de Educación en Inversiones"
+  },
+  "home": {
+    "heroSectionTitle": "Bienvenido a la Herramienta de Educación en Inversiones",
+    "heroSectionDescription": "Aprende los conceptos básicos de inversión y mejora tu conocimiento financiero con nuestros recursos.",
+    "featureSectionTitle": "Características",
+    "feature1": {
+      "title": "Conceptos Básicos de Inversión",
+      "description": "Entiende los conceptos fundamentales de la inversión."
+    },
+    "feature2": {
+      "title": "Tendencias del Mercado",
+      "description": "Mantente actualizado con las últimas tendencias y análisis del mercado de valores."
+    },
+    "feature3": {
+      "title": "Herramientas de Inversión",
+      "description": "Utiliza nuestra colección de herramientas para gestionar tus inversiones de manera eficaz."
+    },
+    "learnMore": "Aprender Más",
+    "buttons": {
+      "darkMode": "Modo Oscuro",
+      "lightMode": "Modo Claro",
+      "increaseFontSize": "Aumentar Tamaño de Fuente",
+      "decreaseFontSize": "Disminuir Tamaño de Fuente"
+    }
+  },
+  "navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "header": {
+    "home": "Inicio",
+    "learn": "Aprender",
+    "simulate": "Simular",
+    "quiz": "Cuestionario",
+    "profile": "Perfil"
+  },
+  "footer": {
+    "contact": "Contáctenos",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "allRightsReserved": "Todos los derechos reservados"
+  },
+  "button": {
+    "submit": "Enviar",
+    "reset": "Restablecer"
+  },
+  "theme": {
+    "light": "Tema Claro",
+    "dark": "Tema Oscuro"
+  },
+  "learn": {
+    "title": "Aprende con nosotros",
+    "section1": {
+      "title": "Introducción al Aprendizaje",
+      "card1": {
+        "title": "Tutoriales Interactivos",
+        "description": "Explora nuestros tutoriales interactivos que te ayudan a aprender con facilidad."
+      },
+      "card2": {
+        "title": "Lecciones en Video",
+        "description": "Mira lecciones en video de alta calidad de expertos en el campo."
+      },
+      "card3": {
+        "title": "Ejercicios y Cuestionarios",
+        "description": "Pon a prueba tu conocimiento con nuestros ejercicios y cuestionarios."
+      }
+    },
+    "section2": {
+      "title": "Temas Avanzados",
+      "card1": {
+        "title": "Aprendizaje Automático",
+        "description": "Profundiza en los conceptos y algoritmos de aprendizaje automático."
+      },
+      "card2": {
+        "title": "Desarrollo Web",
+        "description": "Domina el arte del desarrollo web con práctica práctica."
+      },
+      "card3": {
+        "title": "Ciencia de Datos",
+        "description": "Aprende habilidades de ciencia de datos con proyectos y estudios de caso reales."
+      }
+    }
+  },
+  "buttons": {
+    "increaseFontSize": "Aumentar el tamaño de fuente",
+    "decreaseFontSize": "Disminuir el tamaño de fuente"
+  },
+  "app": {
+    "title": "Herramienta de Educación en Inversiones"
+  },
+  "buttons": {
+    "darkMode": "Modo Oscuro",
+    "lightMode": "Modo Claro",
+    "submit": "Enviar",
+    "reset": "Restablecer"
+  },
+  "simulation": {
+    "title": "Simulación de Inversiones",
+    "description": "Utiliza esta herramienta para simular tus estrategias de inversión y ver sus resultados potenciales.",
+    "formTitle": "Simula Tu Inversión",
+    "card1": {
+      "title": "Iniciar Simulación",
+      "description": "Elige un tipo de inversión y comienza a simular tu estrategia."
+    }
+  },
+  "quiz": {
+    "title": "Cuestionario de Inversión",
+    "description": "Pon a prueba tus conocimientos con nuestro cuestionario de inversión.",
+    "formTitle": "Responde las preguntas",
+    "q1": {
+      "question": "¿Qué es una acción?"
+    },
+    "q2": {
+      "question": "¿Qué es un bono?"
+    }
+  }
+}

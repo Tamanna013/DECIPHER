@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  background-color: #E8DAEF; /* Light Purple */
+  font-family: Arial, sans-serif;
+  color: #4B0082; /* Dark Purple */
+  margin: 0;
+  padding: 0;
+  transition: all 0.3s ease;
+}
+
+.dark-theme {
+  background-color: #4B0082; /* Dark Purple */
+  color: #E8DAEF; /* Light Purple */
+}
+
+.light-theme {
+  background-color: #E8DAEF; /* Light Purple */
+  color: #4B0082; /* Dark Purple */
+}
+
+.accessibility-controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.accessibility-controls button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.accessibility-controls button:hover {
+  background-color: #0056b3;
+}
+
+.language-switcher {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.language-switcher button {
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.language-switcher button:hover {
+  background-color: #007bff;
+  color: white;
+}

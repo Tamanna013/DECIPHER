@@ -1,0 +1,39 @@
+/* Footer general styles */
+footer {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+footer a {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+footer a:hover {
+  transform: translateY(-2px);
+}
+
+footer p {
+  font-size: 0.8rem;
+}
+
+footer .footer-bottom {
+  font-size: 0.75rem;
+  color: #777;
+  padding-top: 10px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  footer a {
+    font-size: 0.9rem;
+    padding: 5px 8px;
+  }
+
+  footer p {
+    font-size: 0.9rem;
+  }
+
+  footer .footer-bottom {
+    font-size: 0.7rem;
+  }
+}

@@ -1,0 +1,43 @@
+/* Mobile Hamburger Menu */
+.hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.hamburger-menu div {
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+}
+
+/* Navigation Links (Mobile) */
+.nav {
+  display: none;
+}
+
+.nav.active {
+  display: block;
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav li {
+  margin: 10px 0;
+}
+
+.nav li button {
+  background: none;
+  border: none;
+  color: #333;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.nav li button:hover {
+  color: #6a0dad;
+}

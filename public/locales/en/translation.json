@@ -1,0 +1,123 @@
+{
+  "app": {
+    "title": "Investment Education Tool"
+  },
+  "home": {
+    "heroSectionTitle": "Welcome to the Investment Education Tool",
+    "heroSectionDescription": "Learn the basics of investment and enhance your financial knowledge with our resources.",
+    "featureSectionTitle": "Features",
+    "feature1": {
+      "title": "Investment Basics",
+      "description": "Understand the fundamental concepts of investing."
+    },
+    "feature2": {
+      "title": "Market Trends",
+      "description": "Stay updated with the latest trends and stock market analysis."
+    },
+    "feature3": {
+      "title": "Investment Tools",
+      "description": "Utilize our collection of tools to manage your investments effectively."
+    },
+    "learnMore": "Learn More",
+    "buttons": {
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode",
+      "increaseFontSize": "Increase Font Size",
+      "decreaseFontSize": "Decrease Font Size"
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "header": {
+    "home": "Home",
+    "learn": "Learn",
+    "simulate": "Simulate",
+    "quiz": "Quiz",
+    "profile": "Profile"
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "allRightsReserved": "All rights reserved"
+  },
+  "button": {
+    "submit": "Submit",
+    "reset": "Reset"
+  },
+  "theme": {
+    "light": "Light Theme",
+    "dark": "Dark Theme"
+  },
+  "learn": {
+    "title": "Learn with Us",
+    "section1": {
+      "title": "Introduction to Learning",
+      "card1": {
+        "title": "Interactive Tutorials",
+        "description": "Explore our interactive tutorials that help you learn with ease."
+      },
+      "card2": {
+        "title": "Video Lessons",
+        "description": "Watch high-quality video lessons from experts in the field."
+      },
+      "card3": {
+        "title": "Exercises & Quizzes",
+        "description": "Test your knowledge with our engaging exercises and quizzes."
+      }
+    },
+    "section2": {
+      "title": "Advanced Topics",
+      "card1": {
+        "title": "Machine Learning",
+        "description": "Dive deep into machine learning concepts and algorithms."
+      },
+      "card2": {
+        "title": "Web Development",
+        "description": "Master the art of web development with hands-on practice."
+      },
+      "card3": {
+        "title": "Data Science",
+        "description": "Learn data science skills with real-world projects and case studies."
+      }
+    }
+  },
+  "buttons": {
+    "increaseFontSize": "Increase Font Size",
+    "decreaseFontSize": "Decrease Font Size"
+  },
+  "app": {
+    "title": "Investment Education Tool"
+  },
+  "buttons": {
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "submit": "Submit",
+    "reset": "Reset"
+  },
+  "simulation": {
+    "title": "Investment Simulation",
+    "description": "Use this tool to simulate your investment strategies and see their potential outcomes.",
+    "formTitle": "Simulate Your Investment",
+    "card1": {
+      "title": "Start Simulation",
+      "description": "Choose an investment type and start simulating your strategy."
+    }
+  },
+  "quiz": {
+    "title": "Investment Quiz",
+    "description": "Test your knowledge with our investment quiz.",
+    "formTitle": "Answer the questions",
+    "q1": {
+      "question": "What is a stock?"
+    },
+    "q2": {
+      "question": "What is a bond?"
+    }
+  }
+}
+
+  

@@ -1,0 +1,39 @@
+/* Global Styles for Home Page */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  transition: background-color 0.3s ease;
+}
+
+body.dark-theme {
+  background-color: #333;
+}
+
+button, select {
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:focus, select:focus {
+  outline: none;
+}
+
+button {
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ccc;
+}
+
+/* Animations */
+.fade-in {
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}

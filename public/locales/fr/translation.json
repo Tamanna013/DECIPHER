@@ -1,0 +1,121 @@
+{
+  "app": {
+    "title": "Outil d'Éducation à l'Investissement"
+  },
+  "home": {
+    "heroSectionTitle": "Bienvenue sur l'Outil d'Éducation à l'Investissement",
+    "heroSectionDescription": "Apprenez les bases de l'investissement et améliorez vos connaissances financières avec nos ressources.",
+    "featureSectionTitle": "Caractéristiques",
+    "feature1": {
+      "title": "Bases de l'Investissement",
+      "description": "Comprenez les concepts fondamentaux de l'investissement."
+    },
+    "feature2": {
+      "title": "Tendances du Marché",
+      "description": "Restez à jour avec les dernières tendances et l'analyse du marché boursier."
+    },
+    "feature3": {
+      "title": "Outils d'Investissement",
+      "description": "Utilisez notre collection d'outils pour gérer vos investissements efficacement."
+    },
+    "learnMore": "En Savoir Plus",
+    "buttons": {
+      "darkMode": "Mode Sombre",
+      "lightMode": "Mode Clair",
+      "increaseFontSize": "Augmenter la Taille de la Police",
+      "decreaseFontSize": "Réduire la Taille de la Police"
+    }
+  },
+  "navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "header": {
+    "home": "Accueil",
+    "learn": "Apprendre",
+    "simulate": "Simuler",
+    "quiz": "Quiz",
+    "profile": "Profil"
+  },
+  "footer": {
+    "contact": "Contactez-nous",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "allRightsReserved": "Tous droits réservés"
+  },
+  "button": {
+    "submit": "Soumettre",
+    "reset": "Réinitialiser"
+  },
+  "theme": {
+    "light": "Thème Clair",
+    "dark": "Thème Sombre"
+  },
+  "learn": {
+    "title": "Apprenez avec nous",
+    "section1": {
+      "title": "Introduction à l'apprentissage",
+      "card1": {
+        "title": "Tutoriels interactifs",
+        "description": "Explorez nos tutoriels interactifs qui vous aident à apprendre facilement."
+      },
+      "card2": {
+        "title": "Leçons en vidéo",
+        "description": "Regardez des leçons en vidéo de haute qualité proposées par des experts dans le domaine."
+      },
+      "card3": {
+        "title": "Exercices et quiz",
+        "description": "Testez vos connaissances avec nos exercices et quiz interactifs."
+      }
+    },
+    "section2": {
+      "title": "Sujets avancés",
+      "card1": {
+        "title": "Apprentissage automatique",
+        "description": "Approfondissez les concepts et algorithmes d'apprentissage automatique."
+      },
+      "card2": {
+        "title": "Développement Web",
+        "description": "Maîtrisez l'art du développement Web avec une pratique concrète."
+      },
+      "card3": {
+        "title": "Science des données",
+        "description": "Apprenez des compétences en science des données grâce à des projets réels et des études de cas."
+      }
+    }
+  },
+  "buttons": {
+    "increaseFontSize": "Augmenter la taille de la police",
+    "decreaseFontSize": "Réduire la taille de la police"
+  },
+  "app": {
+    "title": "Outil d'Éducation à l'Investissement"
+  },
+  "buttons": {
+    "darkMode": "Mode Sombre",
+    "lightMode": "Mode Clair",
+    "submit": "Soumettre",
+    "reset": "Réinitialiser"
+  },
+  "simulation": {
+    "title": "Simulation d'Investissement",
+    "description": "Utilisez cet outil pour simuler vos stratégies d'investissement et voir leurs résultats potentiels.",
+    "formTitle": "Simulez Votre Investissement",
+    "card1": {
+      "title": "Démarrer la Simulation",
+      "description": "Choisissez un type d'investissement et commencez à simuler votre stratégie."
+    }
+  },
+  "quiz": {
+    "title": "Quiz sur l'Investissement",
+    "description": "Testez vos connaissances avec notre quiz sur l'investissement.",
+    "formTitle": "Répondez aux questions",
+    "q1": {
+      "question": "Qu'est-ce qu'une action?"
+    },
+    "q2": {
+      "question": "Qu'est-ce qu'une obligation?"
+    }
+  }
+}
